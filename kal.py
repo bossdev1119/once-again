@@ -4,3 +4,6 @@ for i in range(t):
         print(i)
     else : 
         print(i)
+
+for j in range(t):
+    print(j)
